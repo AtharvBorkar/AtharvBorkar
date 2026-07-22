@@ -22,6 +22,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&color=%23333333)
+
 
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)

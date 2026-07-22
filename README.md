@@ -20,14 +20,15 @@
 **Languages** &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&color=%23333333)
 
 
 **Frontend** &nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)\
+![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat&logo=CSS&color=%23333333)
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat-square&logo=redux)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=Bootstrap&color=%23333333)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat-square&logo=tailwindcss)
 
 **Backend** &nbsp;

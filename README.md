@@ -68,7 +68,7 @@
 ![Static Badge](https://img.shields.io/badge/Seaborn-%237A76FF?style=flat-square&color=333333)
 ![Static Badge](https://img.shields.io/badge/Matplotlib-%23013243?style=flat-square&color=333333)
 ![Static Badge](https://img.shields.io/badge/MediaPipe-%230097A7?style=flat-square&logo=mediapipe&color=333333)
-<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat-square&logo=scikitlearn&color=%23333333)
 ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&color=333333)
 ![Static Badge](https://img.shields.io/badge/TenserFlow-%23FF6F00?style=flat-square&logo=tensorflow&color=333333)

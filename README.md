@@ -62,8 +62,15 @@
 
 **Libraries** &nbsp;
 ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=Pandas&color=%23333333)
+![Static Badge](https://img.shields.io/badge/openCV-%235C3EE8?style=flat-square&logo=opencv&color=333333)
 ![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&color=333333)
+![Static Badge](https://img.shields.io/badge/Plotly-%237A76FF?style=flat-square&logo=plotly&color=333333)
+![Static Badge](https://img.shields.io/badge/Seaborn-%237A76FF?style=flat-square&color=333333)
+![Static Badge](https://img.shields.io/badge/Matplotlib-%23013243?style=flat-square&color=333333)
 ![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat-square&logo=scikitlearn&color=%23333333)
+![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&color=333333)
+![Static Badge](https://img.shields.io/badge/TenserFlow-%23FF6F00?style=flat-square&logo=tensorflow&color=333333)
+
 
 **Tools** &nbsp;
 ![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&color=%23333333)

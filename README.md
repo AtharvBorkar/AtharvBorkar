@@ -50,13 +50,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 
-**AI/ML** &nbsp;
-![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=Pandas&color=%23333333)
-![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&color=333333)
-![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat-square&logo=scikitlearn&color=%23333333)
-![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&color=%23333333)
-![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&color=%23333333)
-
 **Tools & Design** &nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
@@ -66,3 +59,12 @@
 ![Static Badge](https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=git&color=%23333333)
 
 ## AI/ML
+
+**Libraries** &nbsp;
+![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=Pandas&color=%23333333)
+![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&color=333333)
+![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat-square&logo=scikitlearn&color=%23333333)
+
+**Tools** &nbsp;
+![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&color=%23333333)
+![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&color=%23333333)

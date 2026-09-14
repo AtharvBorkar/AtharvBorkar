@@ -12,7 +12,6 @@
 <a href="https://www.instagram.com/_atharvaa07/"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 </div>
-
 <br>
 
 ### Skills ;)

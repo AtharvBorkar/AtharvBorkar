@@ -64,3 +64,5 @@
 ![Static Badge](https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=Blender&color=%23333333)
 ![Static Badge](https://img.shields.io/badge/Davinci_Resolve-%23233A51?style=flat-square&logo=davinciresolve&color=%23333333)
 ![Static Badge](https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=git&color=%23333333)
+
+## AI/ML

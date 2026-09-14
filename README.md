@@ -15,7 +15,9 @@
 
 <br>
 
-## Skills - WEB
+### Skills ;)
+
+## WEB
 
 **Languages** &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)

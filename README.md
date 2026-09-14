@@ -36,6 +36,7 @@
 
 **Backend** &nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
+![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs&color=333333)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat-square&logo=express)
 
 **Databases** &nbsp;
@@ -53,10 +54,13 @@
 **Tools & Design** &nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop)
-![Static Badge](https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=Blender&color=%23333333)
-![Static Badge](https://img.shields.io/badge/Davinci_Resolve-%23233A51?style=flat-square&logo=davinciresolve&color=%23333333)
 ![Static Badge](https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=git&color=%23333333)
+![Static Badge](https://img.shields.io/badge/Cloudinary%20-%233448C5?style=flat-square&logo=cloudinary&color=333333)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&color=333333)
+![Static Badge](https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=Blender&color=%23333333)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop)
+![Static Badge](https://img.shields.io/badge/Davinci_Resolve-%23233A51?style=flat-square&logo=davinciresolve&color=%23333333)
 
 ## AI/ML
 

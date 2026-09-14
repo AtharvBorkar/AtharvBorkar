@@ -52,6 +52,7 @@
 
 **AI/ML** &nbsp;
 ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=Pandas&color=%23333333)
+![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&color=333333)
 ![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat-square&logo=scikitlearn&color=%23333333)
 ![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&color=%23333333)
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&color=%23333333)

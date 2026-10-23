@@ -6,7 +6,7 @@
 
 **Developer · India**
 
-<a href="https://portfolio-2l8l.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio-2l8l.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/atharvborkar07"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Atharvaa95"><img src="https://img.shields.io/badge/-X-333333?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/_atharvaa07/"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=instagram&logoColor=white" /></a>
